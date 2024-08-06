@@ -26,4 +26,6 @@ aqxiy/sortdrink
 
 sortDrink, wait 3.5 min, sortDrink again
 
+No food/drink 10 min post
+
 https://github.com/aqxiy/sortDrink/tree/main
