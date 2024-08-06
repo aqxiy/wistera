@@ -24,4 +24,6 @@ Eat 20 seprated raisins, taken out of fridge to be separated ambient 2 minutes. 
 
 aqxiy/sortdrink
 
+sortDrink, wait 3.5 min, sortDrink again
+
 https://github.com/aqxiy/sortDrink/tree/main
