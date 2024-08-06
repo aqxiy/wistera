@@ -26,6 +26,9 @@ aqxiy/sortdrink
 
 sortDrink, wait 3.5 min, sortDrink again
 
-No food/drink 10 min post
+No food/drink 10 mins post
+No drink 7 mins prior
+No food 2 hours prior
+Only water as drink of day prior
 
 https://github.com/aqxiy/sortDrink/tree/main
