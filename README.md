@@ -10,7 +10,7 @@ https://www.target.com/p/16-57oz-porcelain-coffee-mug-white-threshold-8482/-/A-1
 6. Small ceramic plate for even distribution of coffee. 
 
 Process:
-Eat 20 seprated raisins, taken out of fridge to be separated ambient 2 minutes. Wait 3 minutes. sortDrink coffee. 
+Eat 20 seprated raisins, taken out of fridge to be separated ambient 2 minutes. Wait 3.5 minutes. sortDrink coffee. 
 
 1. Deposit 150mL water in mug using 50 mL beaker
 2. Place mug in microwave and set to power level 4 for 4 minutes. Allow 3 minute cooldown in microwave (door closed).
